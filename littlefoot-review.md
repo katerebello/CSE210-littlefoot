@@ -2,7 +2,7 @@
 
 # Working Demo -
 
-<!-- place holder for adding demo video -->
+[Watch the demo video](https://drive.google.com/file/d/1hd6JaaavBmg7j75ymS8VimbwaVVa4QeJ/view?usp=drive_link)
 
 # Package Architecture
 
